@@ -119,6 +119,7 @@ body {
 .lydia-dp {
   width: auto; /* Adjust size as needed */
   height: auto; /* Maintain aspect ratio */
+  border: 50%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
 }
 
