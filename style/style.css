@@ -117,8 +117,8 @@ body {
 }
 
 .lydia-dp {
-  width: 350px; /* Adjust size as needed */
-  height: 350px; /* Maintain aspect ratio */
+  width: 30%; /* Adjust size as needed */
+  height: 30%; /* Maintain aspect ratio */
   border-radius: 50%; /* Makes the image circular */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
 }
